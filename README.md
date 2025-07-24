@@ -2,7 +2,7 @@
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=rustsol114&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
-    <img width="1850" height="260" align="center" src="https://media.istockphoto.com/id/1473166916/photo/concept-of-cloud-technologies-artificial-intelligence-blockchain-technologies-big-data-cube.jpg?s=612x612&w=0&k=20&c=GBje609ja1zkaAJoasqYOkx5rg02z5lvj2qKgpJwMeg=" alt="EvilG-MC"/>
+    <img width="1850" height="500" align="center" src="https://media.istockphoto.com/id/1473166916/photo/concept-of-cloud-technologies-artificial-intelligence-blockchain-technologies-big-data-cube.jpg?s=612x612&w=0&k=20&c=GBje609ja1zkaAJoasqYOkx5rg02z5lvj2qKgpJwMeg=" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
