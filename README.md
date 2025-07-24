@@ -7,15 +7,15 @@
 <br/>
 <p align="left">
     Just call me <b>Rusty</b>, As a blockchain developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain.
-    I am one of the developers who loves trading bot, P2E games, nft marketplace, meme coin and nft collection launch.
+    <br/>I am one of the developers who loves trading bot, P2E games, nft marketplace, meme coin and nft collection launch.
 </p> 
 
 <p align="left">
-    <a href="https://x.com/@kall10000" target="_blank">
+    <a href="https://x.com/ramaarima42" target="_blank">
         <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" />
     </a>
-    <a href="https://discordapp.com/users/391283181665517568" target="_blank">
-        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" />
+    <a href="https://discordapp.com/users/166068744626372609" target="_blank">
+        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Rusty" />
     </a>
 </p>
 
