@@ -51,7 +51,7 @@
 ## 🛠️ Github Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rustsol114&theme=dark" />
 </div>
 <hr/>
 
