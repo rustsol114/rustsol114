@@ -6,7 +6,8 @@
 </div>
 <br/>
 <p align="left">
-    Just call me <b>Kall</b>, A random person who loves to fool around in his spare time and occasionally codes Crypto games using <code>Unity C#</code> maybe I'm not the best at it, but I have fun doing it and it is my dream, which is what counts, right?
+    Just call me <b>Rusty</b>, As a blockchain developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain.
+    I am one of the developers who loves trading bot, P2E games, nft marketplace, meme coin and nft collection launch.
 </p> 
 
 <p align="left">
