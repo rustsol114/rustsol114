@@ -11,11 +11,17 @@
 </p> 
 
 <p align="left">
-    <a href="https://x.com/ramaarima42" target="_blank">
-        <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" />
+    <a href="mailto:jamesybarra0114@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://discordapp.com/users/166068744626372609" target="_blank">
-        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Rusty" />
+    <a href="https://x.com/ramaarima42" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
+    <a href="https://discordapp.com/users/166068744626372609" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+     <a href="https://t.me/rusty_0114" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </p>
 
