@@ -48,7 +48,7 @@
 </div>
 
 ---
-## 🛠️ Github Stats
+<!-- ## 🛠️ Github Stats
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rustsol114&theme=dark" />
@@ -86,5 +86,5 @@
 - Live: <a href="https://pure-chain-capital-demo.vercel.app/">Purechain Capital</a>
 - Project repo: <a href="https://github.com/lendon1114/Purechain-Capitall-FR">Purechain-Capital</a>
 
-<br />
+<br /> -->
 
